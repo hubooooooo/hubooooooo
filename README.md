@@ -1,13 +1,3 @@
-<div align="center">
-
-[![抖音](https://img.shields.io/badge/抖音-AI%20产品与%20Agent%20实践-000000?style=flat-square&logo=tiktok&logoColor=white)](https://v.douyin.com/mtGYrfVkmAs/)
-[![Innate Labs](https://img.shields.io/badge/Innate%20Labs-AI--native%20products-6E56CF?style=flat-square&logo=github&logoColor=white)](https://github.com/Innate-Labs)
-![Beijing](https://img.shields.io/badge/📍-Beijing-lightgrey?style=flat-square)
-
-</div>
-
----
-
 ### 🤖 Agent 工程
 
 | 项目 | 做什么 | |
