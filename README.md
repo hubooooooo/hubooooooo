@@ -27,7 +27,7 @@
 | 项目 | 做什么 | |
 | --- | --- | --- |
 | [**agent-blueprint**](https://github.com/hubooooooo/agent-blueprint) | 给它一个 PRD 或点子，推导出 Agent 架构、组件选型和代码骨架，直到能在真实环境跑起来 | ![](https://img.shields.io/github/stars/hubooooooo/agent-blueprint?style=flat-square&label=★) |
-| [**claude-code-herness-study**](https://github.com/hubooooooo/claude-code-herness-study) | Agent Harness 工程学习手册。Agency 来自模型，Harness 让 agency 落地 | ![](https://img.shields.io/github/stars/hubooooooo/claude-code-herness-study?style=flat-square&label=★) |
+| [**claude-code-harness-study**](https://github.com/hubooooooo/claude-code-harness-study) | Agent Harness 工程学习手册。Agency 来自模型，Harness 让 agency 落地 | ![](https://img.shields.io/github/stars/hubooooooo/claude-code-harness-study?style=flat-square&label=★) |
 | [**chaichai**](https://github.com/hubooooooo/chaichai) | 拆拆：让 AI 助手帮你拆开任何软件，看懂它是怎么运作的 | ![](https://img.shields.io/github/stars/hubooooooo/chaichai?style=flat-square&label=★) |
 
 ### 📚 给产品经理和创始人
