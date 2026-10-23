@@ -1,24 +1,10 @@
 <div align="center">
 
-# Hi，我是胡泊 👋
-
-**以前做设计，现在做 AI 产品。**<br>
-把 Agent 从 Demo 做成真能跑的产品，再把踩过的坑写成别人能照着做的手册。
-
 [![抖音](https://img.shields.io/badge/抖音-AI%20产品与%20Agent%20实践-000000?style=flat-square&logo=tiktok&logoColor=white)](https://v.douyin.com/mtGYrfVkmAs/)
 [![Innate Labs](https://img.shields.io/badge/Innate%20Labs-AI--native%20products-6E56CF?style=flat-square&logo=github&logoColor=white)](https://github.com/Innate-Labs)
 ![Beijing](https://img.shields.io/badge/📍-Beijing-lightgrey?style=flat-square)
 
 </div>
-
----
-
-### 🧭 关于我
-
-- 🎨 → 🧠 → 🛠️ 设计师出身，转做产品经理，现在是 AI Builder
-- 🤖 关注 **Agent 工程**：架构推导、Harness 设计、怎么让模型的能力真正落地
-- 📚 写给**非技术产品经理和创始人**的 AI 开发手册，从想法到上线
-- 🎤 在抖音和线下分享会讲 AI 产品、Agent 和 FDE
 
 ---
 
