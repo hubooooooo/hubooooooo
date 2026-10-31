@@ -10,9 +10,9 @@
     <td colspan="3"><b>🤖 Agent 工程</b></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/hubooooooo/agent-blueprint"><b>agent-blueprint</b></a></td>
-    <td>给它一个 PRD 或点子，推导出 Agent 架构、组件选型和代码骨架，直到能在真实环境跑起来</td>
-    <td align="center"><img src="https://img.shields.io/github/stars/hubooooooo/agent-blueprint?style=flat-square&label=%E2%98%85" alt="stars"></td>
+    <td><a href="https://github.com/hubooooooo/agent-workshop"><b>agent-workshop</b></a></td>
+    <td>Agent 工坊：给它一个 PRD 或点子，推导出 Agent 架构、组件选型和代码骨架，直到能在真实环境跑起来；分课堂用的教学版和直接上手的网页版</td>
+    <td align="center"><img src="https://img.shields.io/github/stars/hubooooooo/agent-workshop?style=flat-square&label=%E2%98%85" alt="stars"></td>
   </tr>
   <tr>
     <td><a href="https://github.com/hubooooooo/claude-code-harness-study"><b>claude-code-harness-study</b></a></td>
