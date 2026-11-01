@@ -1,5 +1,7 @@
 ### 🛠️ 项目
 
+> 给 AI 产品经理的学习路线：课程 <a href="https://github.com/hubooooooo/claude-code-harness-study">claude-code-harness-study</a> → <a href="https://github.com/hubooooooo/agent-workshop">agent-workshop</a> 项目 → <a href="https://github.com/hubooooooo/idea-to-launch-kit">idea-to-launch-kit</a> 项目。一门课学判断，两个项目把判断做成作品。顺序和交接见课程仓库的 <a href="https://github.com/hubooooooo/claude-code-harness-study/blob/main/学习路线总导读.md">学习路线总导读</a>。
+
 <table>
   <tr>
     <th align="left" width="30%">项目</th>
@@ -11,12 +13,12 @@
   </tr>
   <tr>
     <td><a href="https://github.com/hubooooooo/agent-workshop"><b>agent-workshop</b></a></td>
-    <td>Agent 工坊：给它一个 PRD 或点子，推导出 Agent 架构、组件选型和代码骨架，直到能在真实环境跑起来；分课堂用的教学版和直接上手的网页版</td>
+    <td>Agent 工坊：一个点子正推出 PRD 和架构方案（组件选型及理由、工具清单、待确认问题），或把已有项目反推出「本该有的 PRD」和差距报告，再让你的 AI 写出能跑的骨架并对照验收；分课堂用的教学版和直接上手的网页版</td>
     <td align="center"><img src="https://img.shields.io/github/stars/hubooooooo/agent-workshop?style=flat-square&label=%E2%98%85" alt="stars"></td>
   </tr>
   <tr>
     <td><a href="https://github.com/hubooooooo/claude-code-harness-study"><b>claude-code-harness-study</b></a></td>
-    <td>Agent Harness 工程学习手册。Agency 来自模型，Harness 让 agency 落地</td>
+    <td>Learn Claude Code：照着 Claude Code 亲手造一遍 Agent Harness 的课程，17 章组件加选型篇，学会判断要不要 Agent、走哪条路、用哪些组件、规则怎么定</td>
     <td align="center"><img src="https://img.shields.io/github/stars/hubooooooo/claude-code-harness-study?style=flat-square&label=%E2%98%85" alt="stars"></td>
   </tr>
   <tr>
@@ -28,9 +30,9 @@
     <td colspan="3"><b>📚 给产品经理和创始人</b></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/hubooooooo/ai-product-starter-kit"><b>ai-product-starter-kit</b></a></td>
-    <td>非技术产品经理 / 学生从想法到上线的 AI 产品开发工具包：规则卡 + 三份技术手册 + 操作手册</td>
-    <td align="center"><img src="https://img.shields.io/github/stars/hubooooooo/ai-product-starter-kit?style=flat-square&label=%E2%98%85" alt="stars"></td>
+    <td><a href="https://github.com/hubooooooo/idea-to-launch-kit"><b>idea-to-launch-kit</b></a></td>
+    <td>Idea to Launch：非技术产品经理 / 学生从 PRD 到上线的 AI 产品开发工具包。AI 当 CTO 按 6 个阶段做后端、前端、上线，每阶段交证据包；规则卡 + 三份技术手册 + 操作手册 + 自检脚本</td>
+    <td align="center"><img src="https://img.shields.io/github/stars/hubooooooo/idea-to-launch-kit?style=flat-square&label=%E2%98%85" alt="stars"></td>
   </tr>
   <tr>
     <td><a href="https://github.com/Innate-Labs/founders-playbook"><b>founders-playbook</b></a></td>
