@@ -12,6 +12,11 @@
     <td colspan="3"><b>🤖 Agent 工程</b></td>
   </tr>
   <tr>
+    <td><a href="https://github.com/hubooooooo/Personal-Agent"><b>Personal-Agent</b></a></td>
+    <td>Personal Agent：有长期记忆的个人助理，也是一套可直接二开的 Agent 产品底座。LangGraph + FastAPI；工具注册表带风险分级和确认门禁，FAST / STRONG 双档模型网关，档案 / 情节 / 向量三层记忆，飞书与微信渠道，金标回归与防泄露护栏。MIT，附五层二开指南</td>
+    <td align="center"><img src="https://img.shields.io/github/stars/hubooooooo/Personal-Agent?style=flat-square&label=%E2%98%85" alt="stars"></td>
+  </tr>
+  <tr>
     <td><a href="https://github.com/hubooooooo/agent-workshop"><b>agent-workshop</b></a></td>
     <td>Agent 工坊：一个点子正推出 PRD 和架构方案（组件选型及理由、工具清单、待确认问题），或把已有项目反推出「本该有的 PRD」和差距报告，再让你的 AI 写出能跑的骨架并对照验收；分课堂用的教学版和直接上手的网页版</td>
     <td align="center"><img src="https://img.shields.io/github/stars/hubooooooo/agent-workshop?style=flat-square&label=%E2%98%85" alt="stars"></td>
