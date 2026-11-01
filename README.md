@@ -57,11 +57,6 @@
     <td>上传英文论文，自动产出导读 + 全文翻译 + 术语表，跨篇沉淀术语库，支持 RAG 问答</td>
     <td align="center"><img src="https://img.shields.io/github/stars/hubooooooo/Paper-Reading?style=flat-square&label=%E2%98%85" alt="stars"></td>
   </tr>
-  <tr>
-    <td><a href="https://github.com/hubooooooo/AI-Script-Game"><b>AI-Script-Game</b></a></td>
-    <td>单真人 AI 剧本杀：你选一个角色，其余角色由 AI 演绎</td>
-    <td align="center"><img src="https://img.shields.io/github/stars/hubooooooo/AI-Script-Game?style=flat-square&label=%E2%98%85" alt="stars"></td>
-  </tr>
 </table>
 
 ---
