@@ -1,74 +1,142 @@
-### 🛠️ 项目
+<div align="center">
 
-> 给 AI 产品经理的学习路线：课程 <a href="https://github.com/hubooooooo/claude-code-harness-study">claude-code-harness-study</a> → <a href="https://github.com/hubooooooo/agent-workshop">agent-workshop</a> 项目 → <a href="https://github.com/hubooooooo/idea-to-launch-kit">idea-to-launch-kit</a> 项目。一门课学判断，两个项目把判断做成作品。顺序和交接见课程仓库的 <a href="https://github.com/hubooooooo/claude-code-harness-study/blob/main/学习路线总导读.md">学习路线总导读</a>。
+# 胡泊 hubo 👋
+
+**AI Builder ｜ 以前做设计，现在做产品 ｜ 北京**
+
+[![个人网站](https://img.shields.io/badge/个人网站-hubooooooo.github.io-FC6D26?style=flat-square&logo=githubpages&logoColor=white)](https://hubooooooo.github.io/)
+[![Followers](https://img.shields.io/github/followers/hubooooooo?style=flat-square&label=Followers&color=0969da)](https://github.com/hubooooooo)
+[![Stars](https://img.shields.io/badge/Stars-140%2B-EAC54F?style=flat-square&logo=github&logoColor=white)](https://github.com/hubooooooo?tab=repositories)
+
+设计出身的产品人，现在每天和 AI 一起把想法做成产品。<br/>
+主要折腾三件事：**Agent 工程**、**AIGC 内容生产**，以及 **AI 产品经理的学习路线**。
+
+</div>
+
+## 🛠️ 项目
+
+> 🎓 学习路线：课程 <a href="https://github.com/hubooooooo/claude-code-harness-study">claude-code-harness-study</a> → 项目 <a href="https://github.com/hubooooooo/agent-workshop">agent-workshop</a> → 项目 <a href="https://github.com/hubooooooo/idea-to-launch-kit">idea-to-launch-kit</a>。一门课学判断，两个项目把判断做成作品。顺序和交接见课程仓库的 <a href="https://github.com/hubooooooo/claude-code-harness-study/blob/main/学习路线总导读.md">学习路线总导读</a>。
+>
+> <a href="https://github.com/hubooooooo?tab=repositories">查看全部仓库 →</a>
 
 <table>
   <tr>
-    <th align="left" width="30%">项目</th>
-    <th align="left" width="58%">做什么</th>
-    <th align="center" width="12%">Star</th>
+    <th align="left" width="22%">项目</th>
+    <th align="left" width="56%">做什么</th>
+    <th align="left" width="11%">最近更新</th>
+    <th align="center" width="11%">Star</th>
   </tr>
   <tr>
-    <td colspan="3"><b>🤖 Agent 工程</b></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/hubooooooo/agent-workshop"><b>agent-workshop</b></a></td>
-    <td>Agent 工坊：一个点子正推出 PRD 和架构方案（组件选型及理由、工具清单、待确认问题），或把已有项目反推出「本该有的 PRD」和差距报告，再让你的 AI 写出能跑的骨架并对照验收；分课堂用的教学版和直接上手的网页版</td>
-    <td align="center"><img src="https://img.shields.io/github/stars/hubooooooo/agent-workshop?style=flat-square&label=%E2%98%85" alt="stars"></td>
+    <td colspan="4"><b>🎓 学习路线 · 课程与实战</b></td>
   </tr>
   <tr>
     <td><a href="https://github.com/hubooooooo/claude-code-harness-study"><b>claude-code-harness-study</b></a></td>
-    <td>Learn Claude Code：照着 Claude Code 亲手造一遍 Agent Harness 的课程，17 章组件加选型篇，学会判断要不要 Agent、走哪条路、用哪些组件、规则怎么定</td>
+    <td>Learn Claude Code：照着 Claude Code 亲手造一遍 Agent Harness 的课程，17 章组件 + 选型篇，学会判断要不要 Agent、走哪条路、组件怎么选、规则怎么定</td>
+    <td><img src="https://img.shields.io/github/last-commit/hubooooooo/claude-code-harness-study?style=flat-square&label=%E6%9B%B4%E6%96%B0" alt="last-commit"></td>
     <td align="center"><img src="https://img.shields.io/github/stars/hubooooooo/claude-code-harness-study?style=flat-square&label=%E2%98%85" alt="stars"></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/hubooooooo/chaichai"><b>chaichai</b></a></td>
-    <td>拆拆：让 AI 助手帮你拆开任何软件，看懂它是怎么运作的</td>
-    <td align="center"><img src="https://img.shields.io/github/stars/hubooooooo/chaichai?style=flat-square&label=%E2%98%85" alt="stars"></td>
-  </tr>
-  <tr>
-    <td colspan="3"><b>📚 给产品经理和创始人</b></td>
+    <td><a href="https://github.com/hubooooooo/agent-workshop"><b>agent-workshop</b></a></td>
+    <td>Agent 工坊：一个点子正推出 PRD 和架构方案（组件选型及理由、工具清单、待确认问题），或把已有项目反推出「本该有的 PRD」和差距报告，再让你的 AI 写出能跑的骨架并对照验收；分课堂教学版和直接上手的网页版</td>
+    <td><img src="https://img.shields.io/github/last-commit/hubooooooo/agent-workshop?style=flat-square&label=%E6%9B%B4%E6%96%B0" alt="last-commit"></td>
+    <td align="center"><img src="https://img.shields.io/github/stars/hubooooooo/agent-workshop?style=flat-square&label=%E2%98%85" alt="stars"></td>
   </tr>
   <tr>
     <td><a href="https://github.com/hubooooooo/idea-to-launch-kit"><b>idea-to-launch-kit</b></a></td>
-    <td>Idea to Launch：非技术产品经理 / 学生从 PRD 到上线的 AI 产品开发工具包。AI 当 CTO 按 6 个阶段做后端、前端、上线，每阶段交证据包；规则卡 + 三份技术手册 + 操作手册 + 自检脚本</td>
+    <td>Idea to Launch：非技术产品经理 / 学生从想法到上线的 AI 产品开发工具包。AI 当 CTO 按 6 个阶段做后端、前端、上线，每阶段交证据包；规则卡 + 三份技术手册 + 操作手册 + 自检脚本</td>
+    <td><img src="https://img.shields.io/github/last-commit/hubooooooo/idea-to-launch-kit?style=flat-square&label=%E6%9B%B4%E6%96%B0" alt="last-commit"></td>
     <td align="center"><img src="https://img.shields.io/github/stars/hubooooooo/idea-to-launch-kit?style=flat-square&label=%E2%98%85" alt="stars"></td>
+  </tr>
+  <tr>
+    <td colspan="4"><b>🤖 Agent 产品底座</b></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/hubooooooo/Personal-Agent"><b>Personal-Agent</b></a></td>
+    <td>有长期记忆的个人助理（LangGraph + FastAPI）：工具注册表带风险分级和确认门禁，FAST / STRONG 双档模型网关，档案 / 情节 / 向量三层记忆，飞书与微信渠道，金标回归与防泄露护栏；MIT，附五层二开指南</td>
+    <td><img src="https://img.shields.io/github/last-commit/hubooooooo/Personal-Agent?style=flat-square&label=%E6%9B%B4%E6%96%B0" alt="last-commit"></td>
+    <td align="center"><img src="https://img.shields.io/github/stars/hubooooooo/Personal-Agent?style=flat-square&label=%E2%98%85" alt="stars"></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/hubooooooo/shortfilm-agent"><b>shortfilm-agent</b></a></td>
+    <td>AIGC 内容生产 Agent 教学底座：场景包驱动的多阶段图像 / 视频生成流程（短片、电商广告、漫剧、旅游宣传、商品海报）</td>
+    <td><img src="https://img.shields.io/github/last-commit/hubooooooo/shortfilm-agent?style=flat-square&label=%E6%9B%B4%E6%96%B0" alt="last-commit"></td>
+    <td align="center"><img src="https://img.shields.io/github/stars/hubooooooo/shortfilm-agent?style=flat-square&label=%E2%98%85" alt="stars"></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/hubooooooo/chaichai"><b>chaichai</b></a></td>
+    <td>拆拆 ChaiChai：让 AI 助手帮你拆开任何软件，看懂它是怎么运作的</td>
+    <td><img src="https://img.shields.io/github/last-commit/hubooooooo/chaichai?style=flat-square&label=%E6%9B%B4%E6%96%B0" alt="last-commit"></td>
+    <td align="center"><img src="https://img.shields.io/github/stars/hubooooooo/chaichai?style=flat-square&label=%E2%98%85" alt="stars"></td>
+  </tr>
+  <tr>
+    <td colspan="4"><b>🧪 AI 应用实验</b></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/hubooooooo/Paper-Reading"><b>Paper-Reading</b></a></td>
+    <td>上传英文论文（PDF / txt / md）→ 自动产出结构化导读 + 全文翻译 + 术语表，跨篇沉淀统一术语库，支持 RAG 问答</td>
+    <td><img src="https://img.shields.io/github/last-commit/hubooooooo/Paper-Reading?style=flat-square&label=%E6%9B%B4%E6%96%B0" alt="last-commit"></td>
+    <td align="center"><img src="https://img.shields.io/github/stars/hubooooooo/Paper-Reading?style=flat-square&label=%E2%98%85" alt="stars"></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/hubooooooo/hydrogen-report-agent"><b>hydrogen-report-agent</b></a></td>
+    <td>氢能可研报告生成 Agent：上传资料 → 生成大纲 → 一键写全文 → 导出 Word</td>
+    <td><img src="https://img.shields.io/github/last-commit/hubooooooo/hydrogen-report-agent?style=flat-square&label=%E6%9B%B4%E6%96%B0" alt="last-commit"></td>
+    <td align="center"><img src="https://img.shields.io/github/stars/hubooooooo/hydrogen-report-agent?style=flat-square&label=%E2%98%85" alt="stars"></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/hubooooooo/AI-Script-Game"><b>AI-Script-Game</b></a></td>
+    <td>单真人 AI 剧本杀：玩家选一个角色，其余角色由 AI 演绎（FastAPI + Next.js）</td>
+    <td><img src="https://img.shields.io/github/last-commit/hubooooooo/AI-Script-Game?style=flat-square&label=%E6%9B%B4%E6%96%B0" alt="last-commit"></td>
+    <td align="center"><img src="https://img.shields.io/github/stars/hubooooooo/AI-Script-Game?style=flat-square&label=%E2%98%85" alt="stars"></td>
+  </tr>
+  <tr>
+    <td colspan="4"><b>📢 分享与内容</b></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/hubooooooo/FDE-Shanghai-2026-Share"><b>FDE-Shanghai-2026-Share</b></a></td>
+    <td>2026 上海分享会《FDE：明年中国公司只招 AI 人才了》配套资料包：逐字稿 + 七步案例文档（脱敏版）</td>
+    <td><img src="https://img.shields.io/github/last-commit/hubooooooo/FDE-Shanghai-2026-Share?style=flat-square&label=%E6%9B%B4%E6%96%B0" alt="last-commit"></td>
+    <td align="center"><img src="https://img.shields.io/github/stars/hubooooooo/FDE-Shanghai-2026-Share?style=flat-square&label=%E2%98%85" alt="stars"></td>
   </tr>
   <tr>
     <td><a href="https://github.com/Innate-Labs/founders-playbook"><b>founders-playbook</b></a></td>
     <td>Anthropic《The Founder's Playbook》中文教学版：中译 + 方法论拆解 + 案例演练</td>
+    <td><img src="https://img.shields.io/github/last-commit/Innate-Labs/founders-playbook?style=flat-square&label=%E6%9B%B4%E6%96%B0" alt="last-commit"></td>
     <td align="center"><img src="https://img.shields.io/github/stars/Innate-Labs/founders-playbook?style=flat-square&label=%E2%98%85" alt="stars"></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/hubooooooo/FDE-Shanghai-2026-Share"><b>FDE-Shanghai-2026-Share</b></a></td>
-    <td>2026 上海分享会《FDE：明年中国公司只招 AI 人才了》逐字稿 + 七步案例文档</td>
-    <td align="center"><img src="https://img.shields.io/github/stars/hubooooooo/FDE-Shanghai-2026-Share?style=flat-square&label=%E2%98%85" alt="stars"></td>
+    <td colspan="4"><b>🌐 个人网站</b></td>
   </tr>
   <tr>
-    <td colspan="3"><b>🧪 AI 应用实验</b></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/hubooooooo/Personal-Agent"><b>Personal-Agent</b></a></td>
-    <td>Personal Agent：有长期记忆的个人助理，也是一套可直接二开的 Agent 产品底座。LangGraph + FastAPI；工具注册表带风险分级和确认门禁，FAST / STRONG 双档模型网关，档案 / 情节 / 向量三层记忆，飞书与微信渠道，金标回归与防泄露护栏。MIT，附五层二开指南</td>
-    <td align="center"><img src="https://img.shields.io/github/stars/hubooooooo/Personal-Agent?style=flat-square&label=%E2%98%85" alt="stars"></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/hubooooooo/Paper-Reading"><b>Paper-Reading</b></a></td>
-    <td>上传英文论文，自动产出导读 + 全文翻译 + 术语表，跨篇沉淀术语库，支持 RAG 问答</td>
-    <td align="center"><img src="https://img.shields.io/github/stars/hubooooooo/Paper-Reading?style=flat-square&label=%E2%98%85" alt="stars"></td>
+    <td><a href="https://hubooooooo.github.io/"><b>hubooooooo.github.io</b></a></td>
+    <td>胡泊 · AI 产品经理的个人网站：文章、作品与联系方式</td>
+    <td><img src="https://img.shields.io/github/last-commit/hubooooooo/hubooooooo.github.io?style=flat-square&label=%E6%9B%B4%E6%96%B0" alt="last-commit"></td>
+    <td align="center"><a href="https://hubooooooo.github.io/">访问 →</a></td>
   </tr>
 </table>
 
----
+## 📈 统计
 
-### 🧰 常用工具
+<div align="center">
+  <a href="https://github.com/hubooooooo">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=hubooooooo&show_icons=true&hide_title=true&hide_border=true&theme=default" alt="GitHub stats" />
+  </a>
+  <a href="https://github.com/hubooooooo">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hubooooooo&layout=compact&hide_title=true&hide_border=true&theme=default&langs_count=6" alt="Top languages" />
+  </a>
+</div>
+
+## 🧰 常用工具
 
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
 
 <div align="center">
 
