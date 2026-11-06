@@ -4,9 +4,8 @@
 
 **AI Builder ｜ 以前做设计，现在做产品 ｜ 北京**
 
-[![个人网站](https://img.shields.io/badge/个人网站-hubooooooo.github.io-FC6D26?style=flat-square&logo=githubpages&logoColor=white)](https://hubooooooo.github.io/)
 [![Followers](https://img.shields.io/github/followers/hubooooooo?style=flat-square&label=Followers&color=0969da)](https://github.com/hubooooooo)
-[![Stars](https://img.shields.io/badge/Stars-140%2B-EAC54F?style=flat-square&logo=github&logoColor=white)](https://github.com/hubooooooo?tab=repositories)
+[![Stars](https://img.shields.io/badge/Stars-139%2B-EAC54F?style=flat-square&logo=github&logoColor=white)](https://github.com/hubooooooo?tab=repositories)
 
 设计出身的产品人，现在每天和 AI 一起把想法做成产品。<br/>
 主要折腾三件事：**Agent 工程**、**AIGC 内容生产**，以及 **AI 产品经理的学习路线**。
@@ -78,18 +77,6 @@
     <td align="center"><img src="https://img.shields.io/github/stars/hubooooooo/Paper-Reading?style=flat-square&label=%E2%98%85" alt="stars"></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/hubooooooo/hydrogen-report-agent"><b>hydrogen-report-agent</b></a></td>
-    <td>氢能可研报告生成 Agent：上传资料 → 生成大纲 → 一键写全文 → 导出 Word</td>
-    <td><img src="https://img.shields.io/github/last-commit/hubooooooo/hydrogen-report-agent?style=flat-square&label=%E6%9B%B4%E6%96%B0" alt="last-commit"></td>
-    <td align="center"><img src="https://img.shields.io/github/stars/hubooooooo/hydrogen-report-agent?style=flat-square&label=%E2%98%85" alt="stars"></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/hubooooooo/AI-Script-Game"><b>AI-Script-Game</b></a></td>
-    <td>单真人 AI 剧本杀：玩家选一个角色，其余角色由 AI 演绎（FastAPI + Next.js）</td>
-    <td><img src="https://img.shields.io/github/last-commit/hubooooooo/AI-Script-Game?style=flat-square&label=%E6%9B%B4%E6%96%B0" alt="last-commit"></td>
-    <td align="center"><img src="https://img.shields.io/github/stars/hubooooooo/AI-Script-Game?style=flat-square&label=%E2%98%85" alt="stars"></td>
-  </tr>
-  <tr>
     <td colspan="4"><b>📢 分享与内容</b></td>
   </tr>
   <tr>
@@ -103,15 +90,6 @@
     <td>Anthropic《The Founder's Playbook》中文教学版：中译 + 方法论拆解 + 案例演练</td>
     <td><img src="https://img.shields.io/github/last-commit/Innate-Labs/founders-playbook?style=flat-square&label=%E6%9B%B4%E6%96%B0" alt="last-commit"></td>
     <td align="center"><img src="https://img.shields.io/github/stars/Innate-Labs/founders-playbook?style=flat-square&label=%E2%98%85" alt="stars"></td>
-  </tr>
-  <tr>
-    <td colspan="4"><b>🌐 个人网站</b></td>
-  </tr>
-  <tr>
-    <td><a href="https://hubooooooo.github.io/"><b>hubooooooo.github.io</b></a></td>
-    <td>胡泊 · AI 产品经理的个人网站：文章、作品与联系方式</td>
-    <td><img src="https://img.shields.io/github/last-commit/hubooooooo/hubooooooo.github.io?style=flat-square&label=%E6%9B%B4%E6%96%B0" alt="last-commit"></td>
-    <td align="center"><a href="https://hubooooooo.github.io/">访问 →</a></td>
   </tr>
 </table>
 
