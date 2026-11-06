@@ -1,17 +1,3 @@
-<div align="center">
-
-# 胡泊 hubo 👋
-
-**AI Builder ｜ 以前做设计，现在做产品 ｜ 北京**
-
-[![Followers](https://img.shields.io/github/followers/hubooooooo?style=flat-square&label=Followers&color=0969da)](https://github.com/hubooooooo)
-[![Stars](https://img.shields.io/badge/Stars-139%2B-EAC54F?style=flat-square&logo=github&logoColor=white)](https://github.com/hubooooooo?tab=repositories)
-
-设计出身的产品人，现在每天和 AI 一起把想法做成产品。<br/>
-主要折腾三件事：**Agent 工程**、**AIGC 内容生产**，以及 **AI 产品经理的学习路线**。
-
-</div>
-
 ## 🛠️ 项目
 
 > 🎓 学习路线：课程 <a href="https://github.com/hubooooooo/claude-code-harness-study">claude-code-harness-study</a> → 项目 <a href="https://github.com/hubooooooo/agent-workshop">agent-workshop</a> → 项目 <a href="https://github.com/hubooooooo/idea-to-launch-kit">idea-to-launch-kit</a>。一门课学判断，两个项目把判断做成作品。顺序和交接见课程仓库的 <a href="https://github.com/hubooooooo/claude-code-harness-study/blob/main/学习路线总导读.md">学习路线总导读</a>。
