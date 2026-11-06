@@ -79,17 +79,6 @@
   </tr>
 </table>
 
-## 📈 统计
-
-<div align="center">
-  <a href="https://github.com/hubooooooo">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=hubooooooo&show_icons=true&hide_title=true&hide_border=true&theme=default" alt="GitHub stats" />
-  </a>
-  <a href="https://github.com/hubooooooo">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hubooooooo&layout=compact&hide_title=true&hide_border=true&theme=default&langs_count=6" alt="Top languages" />
-  </a>
-</div>
-
 ## 🧰 常用工具
 
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)
