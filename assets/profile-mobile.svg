@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="320" viewBox="0 0 640 320" role="img" aria-labelledby="title desc">
+  <title id="title">胡泊 hubo · AI Builder</title>
+  <desc id="desc">以前做设计，现在做产品。适合手机阅读的个人名片。</desc>
+  <defs><linearGradient id="paper" x2="1" y2="1"><stop stop-color="#202720"/><stop offset="1" stop-color="#171e19"/></linearGradient></defs>
+  <rect width="640" height="320" rx="12" fill="url(#paper)"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei',sans-serif">
+    <text x="34" y="53" fill="#afe873" font-family="'SFMono-Regular',Consolas,monospace" font-size="17" letter-spacing="2.5">DESIGN / AI / PRODUCT</text>
+    <text x="29" y="153" fill="#f2efe8" font-size="76" font-weight="500" letter-spacing="4">胡泊<tspan dx="21" fill="#c5cbbf" font-family="Georgia,serif" font-size="62" font-style="italic" font-weight="400" letter-spacing="-2">hubo</tspan></text>
+    <text x="34" y="211" fill="#c0c7b9" font-size="25" letter-spacing="1.2">以前做设计，现在做产品。</text>
+  </g>
+  <g fill="none" stroke="#809575" stroke-linejoin="round">
+    <path d="m382 264 118-29 104 49-118 29z" stroke-opacity=".45"/>
+    <path d="m382 244 118-29 104 49-118 29z" stroke-opacity=".7"/>
+    <path d="m382 284 118-29 104 49" stroke="#a6e873"/>
+    <circle cx="382" cy="284" r="4" fill="#202720" stroke="#a6e873" stroke-width="1.5"/>
+  </g>
+  <path d="M34 273h262" stroke="#84927b" stroke-opacity=".24"/>
+  <circle cx="34" cy="273" r="3" fill="#afe873"/>
+</svg>
